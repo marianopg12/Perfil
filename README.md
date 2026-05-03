@@ -22,7 +22,4 @@ Archivo Excel `jugadores_stats.xls` con hojas:
 - Fuerza
 - Saltabilidad
 - Tracking GPS
-
-## 📸 Screenshots
-
-![Dashboard](screenshot.png)
+  
